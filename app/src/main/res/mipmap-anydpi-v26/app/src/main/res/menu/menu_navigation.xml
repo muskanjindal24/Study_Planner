@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_schedule"
+        android:icon="@drawable/ic_schedule"
+        android:title="customSchedule" />
+
+    <item
+        android:id="@+id/nav_schedule1"
+        android:icon="@drawable/ic_schedule"
+        android:title="customSchedule" />
+
+    <item
+        android:id="@+id/nav_schedule2"
+        android:icon="@drawable/ic_schedule"
+        android:title="customSchedule" />
+
+    <item
+        android:id="@+id/nav_schedule3"
+        android:icon="@drawable/ic_schedule"
+        android:title="customSchedule" />
+
+</menu>

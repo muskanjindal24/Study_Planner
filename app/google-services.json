@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027147627004",
+    "firebase_url": "https://study-planner-c02a9.firebaseio.com",
+    "project_id": "study-planner-c02a9",
+    "storage_bucket": "study-planner-c02a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027147627004:android:cf41a98224eb70898d1a79",
+        "android_client_info": {
+          "package_name": "com.example.studyplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027147627004-8e85o6nld7g5q4etel89ep5dsur4d758.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studyplanner",
+            "certificate_hash": "d96352edeea8685a01afaa20012e83feba8fe593"
+          }
+        },
+        {
+          "client_id": "1027147627004-jdbehs85ito39bmp68jfeli62vbdtdc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH5_bsonWKB6JesU0oACACQ0_iSm0rkSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027147627004-jdbehs85ito39bmp68jfeli62vbdtdc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

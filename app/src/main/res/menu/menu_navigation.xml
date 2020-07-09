@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_schedule"
+        android:title="Schedule"
+        android:icon="@drawable/ic_event_note"
+        android:iconTint="#FFFFFF"
+        />
+
+    <item
+        android:id="@+id/nav_schedule1"
+        android:title="Planner"
+        android:icon="@drawable/ic_assessment"
+        android:iconTint="#FFFFFF"
+        />
+
+    <item
+        android:id="@+id/nav_schedule2"
+        android:icon="@drawable/ic_baseline_question_answer_24"
+        android:title="Quiz"
+        android:iconTint="#FFFFFF"
+        />
+
+    <item
+        android:id="@+id/nav_schedule3"
+        android:title="Material"
+        android:icon="@drawable/ic_book"
+        android:iconTint="#FFFFFF"
+        />
+
+</menu>
